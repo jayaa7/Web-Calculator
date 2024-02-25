@@ -18,8 +18,13 @@ Overall, this project provides an engaging and efficient solution for performing
 # Key Features:
 
 User-friendly interface: The calculator will have a clean and intuitive user interface, making it easy for users to perform calculations.
+
 Basic operations: It will support essential mathematical operations such as addition, subtraction, multiplication, and division.
-Dynamic calculation: The calculator will update the result in real-time as the user inputs numbers or performs operations.
+
+Dynamic calculation:The calculator will update the result in real-time as the user inputs numbers or performs operations.
+
 Clear functionality: It will include a clear button to remove the entered numbers or reset the calculator.
+
 Error handling: The calculator will handle common errors, such as dividing by zero or entering invalid characters.
+
 Now let’s take a look at the HTML, CSS, and JavaScript code to create an attractive UI for the calculator:
